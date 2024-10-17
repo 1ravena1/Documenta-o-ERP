@@ -30,3 +30,4 @@
     * [Entrada Manual do Estoque Real](movimentacao/entrada-no-estoque/entrada-no-estoque/entrada-manual-do-estoque-real.md)
 * [Nota Fiscal](movimentacao/nota-fiscal/README.md)
   * [Nota de devolução do Cupom Fiscal](movimentacao/nota-fiscal/nota-de-devolucao-do-cupom-fiscal.md)
+  * [Nota de devolução para Fornecedores](movimentacao/nota-fiscal/nota-de-devolucao-para-fornecedores.md)
