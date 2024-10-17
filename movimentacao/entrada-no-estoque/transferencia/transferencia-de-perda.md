@@ -1,2 +1,0 @@
-# Transferência de perda
-

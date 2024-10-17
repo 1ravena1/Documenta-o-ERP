@@ -21,12 +21,12 @@
 
 ## Movimentação
 
-* [Ajuste no estoque](movimentacao/ajuste-no-estoque.md)
+* [Ajuste no estoque](movimentacao/ajuste-no-estoque/README.md)
+  * [Balanço Total do Estoque](movimentacao/ajuste-no-estoque/balanco-total-do-estoque.md)
 * [Entrada no estoque](movimentacao/entrada-no-estoque/README.md)
-  * [Entrada no estoque](movimentacao/entrada-no-estoque/entrada-no-estoque.md)
-  * [Importar XML de entrada](movimentacao/entrada-no-estoque/importar-xml-de-entrada.md)
-  * [Nota Fiscal](movimentacao/entrada-no-estoque/nota-fiscal.md)
-  * [Tabela de preços](movimentacao/entrada-no-estoque/tabela-de-precos.md)
-  * [Transferência ](movimentacao/entrada-no-estoque/transferencia/README.md)
-    * [Transferência entre almoxarifados](movimentacao/entrada-no-estoque/transferencia/transferencia-entre-almoxarifados.md)
-    * [Transferência de perda](movimentacao/entrada-no-estoque/transferencia/transferencia-de-perda.md)
+  * [Importar XML de Entrada](movimentacao/entrada-no-estoque/importar-xml-de-entrada.md)
+  * [Entrada no estoque](movimentacao/entrada-no-estoque/entrada-no-estoque/README.md)
+    * [Entrada Manual com XML Fiscal e Real](movimentacao/entrada-no-estoque/entrada-no-estoque/entrada-manual-com-xml-fiscal-e-real.md)
+    * [Entrada Manual do Estoque Real](movimentacao/entrada-no-estoque/entrada-no-estoque/entrada-manual-do-estoque-real.md)
+* [Nota Fiscal](movimentacao/nota-fiscal/README.md)
+  * [Nota de devolução do Cupom Fiscal](movimentacao/nota-fiscal/nota-de-devolucao-do-cupom-fiscal.md)
